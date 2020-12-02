@@ -1,0 +1,2 @@
+me/wayv/fire/Bot.java
+ me.wayv.fire.Bot
